@@ -12,6 +12,11 @@
       elemento, outro elemento
       elemento outro elemento
 
+> Dia 3: F015 ~ F018
+   data: 01/02/2023
+   arquivo teste_03.html, teste_04.html e estilo_02.css, estilo_03.css e estilo_04.css
+
+
 
 
 
