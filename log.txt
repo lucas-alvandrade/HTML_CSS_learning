@@ -2,6 +2,16 @@
     data: 23/01/2023
     arquivo: teste_02.html
 
+> Dia 2: F011 ~ F014
+   data: 24/01/2023
+   arquivo teste_02 e estilo.css
+   ESTILO:
+      nome_do_elemento
+      #id_do_elemento
+      .class_do_elemento
+      elemento, outro elemento
+      elemento outro elemento
+
 
 
 
