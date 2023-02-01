@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+.exemplo{
+    border: 1px solid #0f0;
+    padding: 10px 50px;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+img{
+    min-width: 500px;
+    width: 100px;
+}
